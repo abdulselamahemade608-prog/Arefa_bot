@@ -14,7 +14,7 @@ bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 prices = {"super": 150, "special": 100, "normal": 70}
 delivery_guys = [8192973594] 
 bank_accounts = {
-    "telebirr": {"name": "Telebirr", "acc": "0957060969", "owner": "Abdulselam"}
+    "telebirr": {"name": "Telebirr", "acc": "", "owner": ""}
 }
 sales_status = {"is_open": False, "reason": "Not started yet"}
 daily_report = {"total_sales": 0, "orders_count": 0}
