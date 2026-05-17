@@ -11,7 +11,7 @@ CHANNELS = ["@Felafel_arafa_12"]
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
 # --- 2. DATABASE (Memory-based) ---
-prices = {"super": 150, "special": 100, "normal": 70}
+prices = {"super": 150, "special": 100, "normal": 50}
 delivery_guys = [8192973594] 
 bank_accounts = {
     "telebirr": {"name": "Telebirr", "acc": "", "owner": ""}
