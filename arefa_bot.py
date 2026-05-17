@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import datetime
-import time
+import time 
 
 # --- 1. CONFIGURATION ---
 TOKEN = "8747436808:AAF_HymQC0SeHM8u05AiQ3zHWCpYuZIvpZY"
