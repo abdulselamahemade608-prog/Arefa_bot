@@ -5,7 +5,7 @@ import time
 
 # --- 1. CONFIGURATION ---
 TOKEN = "8747436808:AAF_HymQC0SeHM8u05AiQ3zHWCpYuZIvpZY"
-ADMIN_IDS = [7975950709] 
+ADMIN_IDS = [7975950709,7725001366] 
 CHANNELS = ["@Felafel_arafa_12"]
 
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
